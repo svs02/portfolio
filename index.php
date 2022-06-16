@@ -27,6 +27,7 @@
 							<br>
 							<p> Hello, world! <br>
 							You can call me Luke!</p>
+							<a href="images/TaeHyeok Lee Resume.pdf"><h2>My Resume</h2></a>
 							<ul class="icons">
 								<li><a href="https://www.instagram.com/taehyeok_luke/?hl=ko" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
 								<li><a href="https://www.linkedin.com/in/taehyeok-lee-luke/" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
@@ -61,25 +62,33 @@
 					<!-- Section -->
 					<section>
 						<header>
-							<h2>My Profile</h2>
+							<h2>My Skills</h2>
 						</header>
 						<div class="content">
-							<p><strong>Etiam tristique libero</strong> eu nibh porttitor amet fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies condimentum.</p>
+							<p>I have strong web developer skills and comunication skills. My most favorite skill is DevOps.</p>
 							<div>
 								<div class="skills">
 									<div class="skill">
-										<div class="skill-name">HTML</div>
+										<div class="skill-name">Python</div>
 										<div class="skill-bar">
-											<div class="skill-per" per="60%" style="max-width:60%"></div>
+											<div class="skill-per" per="90%" style="max-width:90%"></div>
+										</div>
+									</div>
+								</div>
+								<div class="skills">
+									<div class="skill">
+										<div class="skill-name">MySQL</div>
+										<div class="skill-bar">
+											<div class="skill-per" per="80%" style="max-width:80%"></div>
 										</div>
 									</div>
 								</div>
 		
 								<div class="skills">
 									<div class="skill">
-										<div class="skill-name">CSS</div>
+										<div class="skill-name">HTML</div>
 										<div class="skill-bar">
-											<div class="skill-per" per="40%" style="max-width:40%"></div>
+											<div class="skill-per" per="70%" style="max-width:70%"></div>
 										</div>
 									</div>
 								</div>
@@ -88,20 +97,41 @@
 									<div class="skill">
 										<div class="skill-name">JS</div>
 										<div class="skill-bar">
-											<div class="skill-per" per="50%" style="max-width:50%"></div>
+											<div class="skill-per" per="80%" style="max-width:80%"></div>
+										</div>
+									</div>
+								</div>
+
+
+								<div class="skills">
+									<div class="skill">
+										<div class="skill-name">Docker</div>
+										<div class="skill-bar">
+											<div class="skill-per" per="90%" style="max-width:90%"></div>
+										</div>
+									</div>
+								</div>
+
+								<div class="skills">
+									<div class="skill">
+										<div class="skill-name">Jenkins</div>
+										<div class="skill-bar">
+											<div class="skill-per" per="80%" style="max-width:80%"></div>
 										</div>
 									</div>
 								</div>
 							</div>
+							<br>
+							<br>
+							<p><strong>Other Skills</strong></p>
 							<ul class="feature-icons">
-								<li class="icon solid fa-laptop">Consequat tempus</li>
-								<li class="icon solid fa-bolt">Etiam adipiscing</li>
-								<li class="icon solid fa-signal">Libero nullam</li>
-								<li class="icon solid fa-cog">Blandit condimentum</li>
-								<li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
-								<li class="icon solid fa-code">Nibh amet venenatis</li>
+								<li class="icon solid fa-laptop">AWS, Azure</li>
+								<li class="icon solid fa-bolt">Node.js, Nginx</li>
+								<li class="icon solid fa-signal">Open API</li>
+								<li class="icon solid fa-cog">Linux, Windows Server</li>
+								<li class="icon solid fa-map-marker-alt">DevOps, Microservice</li>
+								<li class="icon solid fa-code">CSS, Bootstrap</li>
 							</ul>
-							<p>Vehicula ultrices sed ultricies condimentum. Magna sed etiam consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et dolor libero, feugiat magna tempus, sed et lorem adipiscing.</p>
 						</div>
 						
 						
@@ -111,10 +141,10 @@
 				<!-- Section -->
 					<section>
 						<header>
-							<h2>Ultrices erat magna sed condimentum</h2>
+							<h2>Projects</h2>
 						</header>
 						<div class="content">
-							<p><strong>Integer mollis egestas</strong> nam maximus erat id euismod egestas. Pellentesque sapien ac quam. Lorem ipsum dolor sit nullam.</p>
+							<p>Through various group projects and individual projects, I could get many experiences as a developer.</p>
 
 							<!-- Section -->
 								<section>
@@ -442,12 +472,17 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 							<h2>Get in touch</h2>
 						</header>
 						<ul>
+							<ul>
 							<h3>Email</h3>
 							<a onclick="window.location.href='mailto:lukeleet91@gmail.com'" style="cursor: pointer;">lukeleet91@gmail.com</a>
 						</ul>
 						<ul>
 							<h3>Phone</h3>
 							<a href="#">778-522-6480</a>
+						</ul>
+						<ul>
+							
+							<a href="images/TaeHyeok Lee Resume.pdf"><h2>My Resume</h2></a>
 						</ul>
 						<footer>
 							<ul class="items">
@@ -465,6 +500,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 								</li>
 							</ul>
 						</footer>
+						</ul>
 					</section>
 
 				<!-- Copyright -->
