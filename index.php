@@ -65,8 +65,8 @@
 							<h2>My Skills</h2>
 						</header>
 						<div class="content">
-							<p>I have strong web developer skills and comunication skills. My most favorite skill is DevOps.</p>
-							<div>
+							<p>I have web developer skills and comunication skills. My most favorite skill is DevOps.</p>
+							<div id="fadeIn">
 								<div class="skills">
 									<div class="skill">
 										<div class="skill-name">Python</div>
@@ -150,7 +150,11 @@
 								<section>
 									<header>
 										<h3><i>Ocean Breeze</i></h3>
-										<p>Vehicula ultrices dolor amet ultricies et condimentum. Magna sed etiam consequat, et lorem adipiscing sed dolor sit amet, consectetur amet do eiusmod tempor incididunt  ipsum suspendisse ultrices gravida.</p>
+										<p><strong>Stacks: </strong>PostgreSQL, Bootstrap<br> HTML, CSS, JS</p>
+										<p>An application that labels data on images.
+											This project was carried out in collaboration with the actual company Breeze.
+											My role was to make UI/UX design that looks good and useful, and make organized database structure and ERD for application.
+											</p>
 										<a href="https://github.com/iskrov/bcit-breeze" class="icon brands fa-github"><span class="label">Github</span></a>
 									</header>
 									<div class="content">
@@ -165,19 +169,23 @@
 								<section>
 									<header>
 										<h3><i>CIT Computing</i></h3>
-										<p><strong>Stacks</strong></p>
-										<p>Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin aliquam sed facilisis ante interdum congue. Integer mollis, nisl amet convallis, porttitor magna ullamcorper, amet mauris. Ut magna finibus nisi nec lacinia ipsum maximus.</p>
+										<p><strong>Stacks: </strong>Docker, AWS<br> HTML, CSS, JS</p>
+										<p>School project  carried out in collaboration with the actual company where my team created an application that has Booking and Management functionalities.
+											My role was to deploy applications created by the team to AWS using Docker for deployment.
+											A project where communication and negotiation skills between customers and teams.
+											</p>
 										<a href="https://github.com/svs02/BCIT-Scheduler-App" class="icon brands fa-github"><span class="label">Github</span></a>
 									</header>
 									<div class="content">
 										<div class="gallery">
-											<a href="images/gallery/fulls/05.jpg" class="landscape"><img src="images/gallery/thumbs/05.jpg" alt="" /></a>
+											<a href="https://github.com/svs02/BCIT-Scheduler-App" class="landscape"><img src="images/booking_1.png" alt="" /></a>
+											<a href="https://github.com/svs02/BCIT-Scheduler-App" class="landscape"><img src="images/booking_2.png" alt="" /></a>
 										</div>
 									</div>
 								</section>
 								
 								<!-- Section -->
-								<section>
+								<!-- <section>
 									<header>
 										<h3><i>Microservice and Coffee</i></h3>
 										<p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore.  ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
@@ -186,25 +194,28 @@
 									<div class="content">
 										<div class="gallery">
 
-											<a href="images/gallery/fulls/10.jpg" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
+											<a href="https://github.com/svs02/Microservice-and-Coffee" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
+											<a href="https://github.com/svs02/Microservice-and-Coffee" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
 										</div>
 									</div>
-								</section>
+								</section> -->
 
 								<!-- Section -->
 								<section>
 									<header>
 										<h3><i>Build Portfolio</i></h3>
-										<p>Proin aliquam facilisis ante interdum. Sed nulla amet lorem feugiat tempus aenean ornare velit lacus, ac varius sed enim lorem ullamcorper dolore.  ac varius enim lorem ullamcorper dolore. Proin aliquam facilisis.</p>
+										<p><strong>Stacks: </strong>Bootstrap, HerokuCI<br> HTML, CSS, JS</p>
+										<p>My personal project.  A portfolio of statuses and projects about me. Each time when I modify a portfolio, I could review the basic skill of web development.</p>
 										<a href="https://github.com/svs02/portfolio" class="icon brands fa-github"><span class="label">Github</span></a>
 									</header>
 									<div class="content">
 										<div class="gallery">
-
-											<a href="images/gallery/fulls/10.jpg" class="landscape"><img src="images/gallery/thumbs/10.jpg" alt="" /></a>
+											<a href="https://github.com/svs02/portfolio" class="landscape"><img src="images/portfolio1.gif" alt="" /></a>
+											<a href="https://github.com/svs02/portfolio" class="landscape"><img src="images/portfolio2.gif" alt="" /></a>
 										</div>
 									</div>
 								</section>
+						
 
 						</div>
 					</section>
@@ -529,6 +540,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 			<script src="assets/js/breakpoints.min.js"></script>
 			<script src="assets/js/util.js"></script>
 			<script src="assets/js/main.js"></script>
+			<script src="assets/js/scroll.js"></script>
 
 	</body>
 </html>
