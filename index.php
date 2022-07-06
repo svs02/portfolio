@@ -499,7 +499,7 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 						<ul>
 							<ul>
 							<h3>Email</h3>
-							<a onclick="window.location.href='mailto:lukeleet91@gmail.com'" style="cursor: pointer;">lukeleet91@gmail.com</a>
+							<a onclick="window.location.href='mailto:luketaehyeok@gmail.com'" style="cursor: pointer;">luketaehyeok@gmail.com</a>
 						</ul>
 						<ul>
 							<h3>Phone</h3>
